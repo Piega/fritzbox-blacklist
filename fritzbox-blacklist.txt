@@ -1,4 +1,5 @@
 addition.com
+adition.com
 addthis.com
 adform.net
 admob.com
@@ -22,8 +23,10 @@ ivwbox.de
 nuggad.net
 overture.com
 quality-channel.de
+revcontent.com
 revivedadtag.com
 sitemeter.com
+softonic.com
 statcounter.com
 tradedoubler.com
 trafficholder.com
